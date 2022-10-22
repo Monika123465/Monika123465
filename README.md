@@ -5,11 +5,8 @@
 
 
 - 🌱 I’m currently learning **React,Redux,node.js**
-
-- 👨‍💻 Github [https://github.com/Monika123465/Monika123465.github.io](https://github.com/Monika123465/Monika123465.github.io)
-
 - 💬 Ask me about **MERN**
-
+- 👨‍💻 Github [https://github.com/Monika123465/Monika123465.github.io](https://github.com/Monika123465/Monika123465.github.io)
 - 📫 email- **monasingh7479@gmail.com**
 
 - 📄 Resume [https://drive.google.com/file/d/1EkA-0IyOXhSJVQERRPSP92rgU3L8-JVd/view?usp=sharing](https://drive.google.com/file/d/1EkA-0IyOXhSJVQERRPSP92rgU3L8-JVd/view?usp=sharing)
