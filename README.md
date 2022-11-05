@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **React,Redux,node.js**
 - 💬 Ask me about **MERN**
--  All of my projects are available at  <a href="https://Monika123465.github.io/"> Portfolio</a>
-- 👨‍💻 Github [https://github.com/Monika123465/Monika123465.github.io](https://github.com/Monika123465/Monika123465.github.io)
+-  All of my projects are available at  <a href="https://monika123465.github.io/portfolio/"> Portfolio</a>
+- 👨‍💻 Github [https://github.com/Monika123465/portfolio/tree/main/monikaportfolio](https://github.com/Monika123465/portfolio/tree/main/monikaportfolio)
 - 📫 email- **monasingh7479@gmail.com**
 
-- 📄 Know about my experience <a href="https://drive.google.com/file/d/1L2pYzhD5MJKpQFbeU-VB0A5OxTqYsTdm/view?usp=sharing"> Resume </a>
+- 📄 Know about my experience <a href="https://drive.google.com/file/d/1hsRaycrml4Slitwev5f3PYgU3v_eoXTr/view?usp=share_link"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
