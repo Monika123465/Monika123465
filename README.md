@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/monika kumari" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="monika kumari" height="30" width="40" /></a>
-<a href="https://codesandbox.com/monasingh7479" target="blank"><img align="center" src="https://camo.githubusercontent.com/ccf186cd931b6a61cf49bd0a3aeacb2d73be7e91210453571bdcf9f5b1057173/687474703a2f2f63646e2e656d6265642e6c792f70726f7669646572732f6c6f676f732f636f646573616e64626f782e706e67" alt="monasingh7479" height="30" width="40" /></a>
+<a href="https://codesandbox.com/monasingh7479" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-sandbox-3445516-2878443.png" alt="monasingh7479" height="30" width="40" /></a>
 </p>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=monika123465&label=Profile%20views&color=0e75b6&style=flat" alt="monika123465" /> </p>
 
